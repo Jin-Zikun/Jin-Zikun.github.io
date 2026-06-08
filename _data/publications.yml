@@ -10,13 +10,24 @@ main:
     image: ./assets/img/FracKGMF.png
     # notes: Early Accept
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    # authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    # conference_short: CVPR
-    # conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    # pdf: https://arxiv.org/pdf/2002.10211.pdf
+  - title: "Signal Enhancement via Multi-view Dynamic Representation and Alignment-aware Fusion"
+    authors: <strong>Zikun Jin</strong>, Yuhua Qian*, Xinyan Liang, Jiaqian Zhang, Jinpeng Yuan, Shen Hu, Haijun Geng, Honghong Cheng
+    conference_short: AAAI
+    conference: Proceedings of the AAAI Conference on Artificial Intelligence <strong>()</strong>, 2025.
+    pdf: https://ojs.aaai.org/index.php/AAAI/article/view/39404
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # notes: Oral Presentation
-    # image: ./assets/img/teaser_example.png
+    image: ./assets/img/FracFusion.png
+
+  - title: "A Multi-view Fusion Approach for Enhancing Speech Signals via Short-time Fractional Fourier Transform"
+    authors: <strong>Zikun Jin</strong>, Yuhua Qian*, Xinyan Liang, Haijun Geng
+    conference_short: IJCAI
+    conference: International Joint Conferences on Artificial Intelligence <strong>(IJCAI)</strong>, 2025.
+    pdf: https://www.ijcai.org/proceedings/2025/0613.pdf
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/img/MFSE.png
