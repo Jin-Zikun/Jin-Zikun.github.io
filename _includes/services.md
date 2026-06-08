@@ -7,4 +7,4 @@
   <li>Forty-Third International Conference on Machine Learning (ICML) 2026 **Silver Reviewer Award**</li>
   <li>The 40th Annual AAAI Conference on Artificial Intelligence (AAAI) 2026</li>
   <li>Proceedings of the Thirty-Fourth International Joint Conference on Artificial Intelligence (IJCAI) 2025</li>
-</   & lt;ul>
+</ul>
